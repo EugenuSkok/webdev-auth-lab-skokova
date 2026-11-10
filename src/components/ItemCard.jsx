@@ -1,7 +1,7 @@
 const ItemCard = () => {
     return (
         <div className="item-card">
-            <img src={imageUrl} class="item-image" />
+            {/* <img src={imageUrl} class="item-image" /> */}
             <div class="item-content">
                 <span class="status-badge status-active">Активное</span>
                 <h3 class="item-title">Название</h3>
